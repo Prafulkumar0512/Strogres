@@ -5,6 +5,9 @@
 /api/venv
 /.pnp
 .pnp.js
+/api/email_api/.env
+/api/__pycache__
+/src/firebase.js
 
 # testing
 /coverage
